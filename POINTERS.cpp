@@ -1,7 +1,6 @@
 /************************************************
 *						*
 *	Dynamic Matrix with Pointers		*
-*	by Edoardo A. Martinez Pérez		*
 *		Fill - Search			*
 *						*
 ************************************************/
