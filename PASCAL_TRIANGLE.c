@@ -1,9 +1,9 @@
-/****************************************************************
-*								*
-*	Pascal Triangle by Edoardo Alonso Martinez Perez	*
-*			Recursive - Array			*
-*								*
-*****************************************************************/
+/********************************
+*				*
+*	Pascal Triangle		*
+*	Recursive - Array	*
+*				*
+*********************************/
 
 									// [Inclusion of required libraries and headers]
 #include <stdio.h>
@@ -17,7 +17,7 @@ double calculation(int row, int col);
 
 int main(){
 	system("clear");
-										// [Definition of local variables]
+									// [Definition of local variables]
 	
 	int r, c, spaces, position;
 	int rows, i, columns = 0;
